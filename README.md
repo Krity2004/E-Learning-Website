@@ -1,1 +1,2 @@
 # E-Learning-Website
+The E-Learning Website is a web-based learning platform designed to provide a seamless digital learning experience. It enables students to access educational content online, browse and enroll in courses, and track their learning progress. Instructors can create and manage courses, upload video-based content, and monitor student activities. Administrators oversee platform operations, manage users, and ensure smooth functionality.
